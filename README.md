@@ -3,12 +3,15 @@
 Ce corpus est composé de pages d'entraînements préparées pour le finetuning du modèle Manu Mc Fondue. Ces 17 double-pages pages sont extraites des tables décennales (1902-1913) du 1er arrondissement de Lyon, et recouvrent chaque initiale de la table.
 Il manque uniquement la lettre D. 
 Le modèle de nommage des fichiers est le suivant : n°pagemanuscrit_initiale.xml/png
+
 source du manuscrit : archives municipales de Lyon --> https://www.fondsenligne.archives-lyon.fr/v2/ac69/visualiseur/etatcivil.html?id=690104655&vue=1
 
 Total Images
 17
+
 Total Lines
 1 632
+
 Total Characters
 31 870
 
