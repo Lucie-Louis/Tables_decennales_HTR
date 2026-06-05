@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page109_WXYZ.pdf_page_1.png</fileName>
+      <fileIdentifier>pdf//page109_WXYZ.pdf</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT26871" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11028" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2480"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2480"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="187"
+                   VPOS="226"
+                   WIDTH="2213"
+                   HEIGHT="1455"
+                   ID="eSc_textblock_619bcc44"
+                   TAGREFS="BT26871">
+          <Shape><Polygon POINTS="2275 241 2376 280 2345 325 2400 358 2400 574 2376 569 2368 684 2329 686 2329 730 2103 762 1419 762 1380 730 1395 623 1372 598 1364 358 1325 333 1380 288 1292 288 1316 325 1261 358 1292 395 1253 413 1277 504 1238 802 1245 1572 1222 1681 241 1681 241 1309 187 1245 202 1060 208 1105 241 1112 241 974 194 1011 187 910 187 475 218 442 218 257 520 233 1331 272 1341 249 1518 233 1986 272 2064 226"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c720987f"
+                    TAGREFS="LT11028"
+                    BASELINE="274 385 731 380" 
+                    HPOS="272"
+                    VPOS="337"
+                    WIDTH="459"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="274 385 274 419 425 401 477 411 501 415 503 415 540 409 581 401 729 401 731 380 727 346 425 337 423 337 421 337 419 337 401 348 292 339 290 339 288 339 286 339 272 346 274 385"/></Shape>
+	    <String CONTENT="Volpillière - Germaine"
+                    HPOS="272"
+                    VPOS="337"
+                    WIDTH="459"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82445cf4"
+                    TAGREFS="LT11028"
+                    BASELINE="951 383 1220 380" 
+                    HPOS="949"
+                    VPOS="333"
+                    WIDTH="271"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="951 383 951 405 1218 403 1220 380 1218 346 1191 337 1189 337 1187 337 1138 343 1099 346 1060 339 1033 333 1031 333 1029 333 1017 337 980 348 949 333 951 383"/></Shape>
+	    <String CONTENT="11 Février 1910"
+                    HPOS="949"
+                    VPOS="333"
+                    WIDTH="271"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d7689b3"
+                    TAGREFS="LT11028"
+                    BASELINE="271 440 924 437" 
+                    HPOS="266"
+                    VPOS="385"
+                    WIDTH="655"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="269 438 269 464 915 470 921 435 912 385 266 391 269 438"/></Shape>
+	    <String CONTENT="Vuaillat - Marguerite Augustine"
+                    HPOS="266"
+                    VPOS="385"
+                    WIDTH="655"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_691fa50b"
+                    
+                    BASELINE="952 437 1228 436" 
+                    HPOS="950"
+                    VPOS="391"
+                    WIDTH="275"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="950 435 950 470 1225 461 1225 435 1225 394 950 391 950 435"/></Shape>
+	    <String CONTENT="17 Décembre 1904"
+                    HPOS="950"
+                    VPOS="391"
+                    WIDTH="275"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_915226e6"
+                    TAGREFS="LT11028"
+                    BASELINE="284 496 814 495" 
+                    HPOS="282"
+                    VPOS="454"
+                    WIDTH="532"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="284 496 284 514 811 518 814 495 813 465 791 456 789 456 787 456 723 465 711 467 707 465 684 456 682 456 680 456 678 456 676 456 676 457 666 467 664 469 563 469 563 467 534 454 532 454 530 454 528 454 483 467 467 454 465 454 464 454 358 454 356 454 354 454 352 454 337 467 302 454 300 454 298 454 296 454 294 454 294 456 282 463 284 496"/></Shape>
+	    <String CONTENT="Vuaille - Jeanne Marie"
+                    HPOS="282"
+                    VPOS="454"
+                    WIDTH="532"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe27cdb1"
+                    TAGREFS="LT11028"
+                    BASELINE="941 495 1230 495" 
+                    HPOS="941"
+                    VPOS="450"
+                    WIDTH="289"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="941 495 943 532 978 522 1080 532 1087 532 1089 533 1195 533 1195 532 1197 532 1199 532 1212 522 1224 532 1230 495 1228 454 1066 459 1027 450 1023 450 1021 450 1019 450 1017 450 1015 450 994 459 941 450 941 495"/></Shape>
+	    <String CONTENT="29 Décembre 1909"
+                    HPOS="941"
+                    VPOS="450"
+                    WIDTH="289"
+                    HEIGHT="83"
+                    WC="0.9714436671313118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_838c4675"
+                    TAGREFS="LT11028"
+                    BASELINE="278 551 948 551" 
+                    HPOS="277"
+                    VPOS="508"
+                    WIDTH="670"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="277 549 277 575 944 581 947 549 947 508 277 508 277 549"/></Shape>
+	    <String CONTENT="Vuarnet - Charlotte Eléonore Pierrette"
+                    HPOS="277"
+                    VPOS="508"
+                    WIDTH="670"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3bdda0ba"
+                    
+                    BASELINE="959 551 1220 551" 
+                    HPOS="956"
+                    VPOS="508"
+                    WIDTH="263"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="956 549 956 575 1216 578 1219 549 1216 508 956 511 956 549"/></Shape>
+	    <String CONTENT="10 Juillet 1907"
+                    HPOS="956"
+                    VPOS="508"
+                    WIDTH="263"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_514154a4"
+                    TAGREFS="LT11028"
+                    BASELINE="261 610 914 602" 
+                    HPOS="259"
+                    VPOS="561"
+                    WIDTH="655"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="261 610 261 635 914 629 914 602 908 571 797 571 795 571 774 561 772 561 770 561 768 561 746 571 738 572 723 571 678 563 676 563 631 571 618 572 614 571 606 563 604 563 602 563 600 563 598 563 596 563 584 571 577 574 569 571 553 565 551 565 549 565 547 565 528 571 512 574 259 572 261 610"/></Shape>
+	    <String CONTENT="Vuillermoz - Marguerite Antoinette"
+                    HPOS="259"
+                    VPOS="561"
+                    WIDTH="655"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c61247d"
+                    TAGREFS="LT11028"
+                    BASELINE="953 608 1218 606" 
+                    HPOS="951"
+                    VPOS="563"
+                    WIDTH="267"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="953 608 953 625 1214 627 1218 606 1214 569 951 563 953 608"/></Shape>
+	    <String CONTENT="2 Juin 1903"
+                    HPOS="951"
+                    VPOS="563"
+                    WIDTH="267"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_62be40e1"
+                    TAGREFS="LT11028"
+                    BASELINE="265 668 928 664" 
+                    HPOS="260"
+                    VPOS="613"
+                    WIDTH="667"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="263 666 263 695 924 692 927 663 921 616 271 613 269 613 266 613 263 613 263 616 260 616 263 666"/></Shape>
+	    <String CONTENT="Vuitton - Marie Pauline Elise"
+                    HPOS="260"
+                    VPOS="613"
+                    WIDTH="667"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c127e75d"
+                    
+                    BASELINE="961 664 1224 662" 
+                    HPOS="956"
+                    VPOS="610"
+                    WIDTH="266"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="959 663 959 689 1216 695 1222 660 1213 610 956 610 959 663"/></Shape>
+	    <String CONTENT="27 Janvier 1903"
+                    HPOS="956"
+                    VPOS="610"
+                    WIDTH="266"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_075bb064"
+                    TAGREFS="LT11028"
+                    BASELINE="290 721 744 721" 
+                    HPOS="290"
+                    VPOS="676"
+                    WIDTH="454"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="290 721 290 744 744 744 744 721 744 686 290 676 290 721"/></Shape>
+	    <String CONTENT="Vulpin - Marguerite"
+                    HPOS="290"
+                    VPOS="676"
+                    WIDTH="454"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ae07c4e"
+                    TAGREFS="LT11028"
+                    BASELINE="949 721 1242 724" 
+                    HPOS="944"
+                    VPOS="669"
+                    WIDTH="296"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="947 719 944 739 976 757 979 757 982 757 1105 742 1199 757 1201 757 1204 757 1237 739 1240 722 1234 669 947 675 947 719"/></Shape>
+	    <String CONTENT="27 Septembre 1909"
+                    HPOS="944"
+                    VPOS="669"
+                    WIDTH="296"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0dc341a2"
+                    TAGREFS="LT11028"
+                    BASELINE="278 777 772 773" 
+                    HPOS="276"
+                    VPOS="730"
+                    WIDTH="496"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="278 777 278 797 512 808 514 808 516 808 551 795 555 795 563 795 627 806 629 806 772 793 772 773 766 742 658 744 649 740 635 730 633 730 631 730 629 730 627 730 612 738 598 746 510 746 501 736 497 734 497 732 495 732 493 732 436 732 434 732 432 732 425 736 407 746 391 734 387 732 386 732 384 732 382 732 276 732 278 777"/></Shape>
+	    <String CONTENT="Wahrenberger - Suzanne"
+                    HPOS="276"
+                    VPOS="730"
+                    WIDTH="496"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e70b1c3"
+                    TAGREFS="LT11028"
+                    BASELINE="951 775 1234 775" 
+                    HPOS="950"
+                    VPOS="727"
+                    WIDTH="281"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="950 774 950 800 1231 800 1231 774 1231 739 950 727 950 774"/></Shape>
+	    <String CONTENT="30 Juillet 1905"
+                    HPOS="950"
+                    VPOS="727"
+                    WIDTH="281"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25d36a40"
+                    TAGREFS="LT11028"
+                    BASELINE="276 832 770 832" 
+                    HPOS="276"
+                    VPOS="791"
+                    WIDTH="494"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="276 832 276 857 504 863 506 863 508 863 540 853 549 851 690 851 692 851 729 863 731 863 733 863 735 863 770 849 770 832 770 804 713 804 711 802 697 791 696 791 694 791 692 791 690 791 658 800 651 802 639 800 598 791 596 791 594 791 592 791 581 799 573 804 493 804 477 795 467 791 465 791 464 791 428 795 366 800 276 791 276 832"/></Shape>
+	    <String CONTENT="Wahrenberger - Simonne"
+                    HPOS="276"
+                    VPOS="791"
+                    WIDTH="494"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_54e133f8"
+                    TAGREFS="LT11028"
+                    BASELINE="955 832 1231 830" 
+                    HPOS="950"
+                    VPOS="783"
+                    WIDTH="278"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="953 830 953 862 1222 865 1228 827 1219 783 950 783 953 830"/></Shape>
+	    <String CONTENT="6 Juin 1908"
+                    HPOS="950"
+                    VPOS="783"
+                    WIDTH="278"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b160d514"
+                    TAGREFS="LT11028"
+                    BASELINE="261 890 764 882" 
+                    HPOS="259"
+                    VPOS="838"
+                    WIDTH="505"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="261 890 261 912 764 904 764 882 760 849 651 838 649 838 647 838 645 838 631 849 629 849 625 849 616 839 614 839 612 839 610 839 608 839 606 839 596 849 594 851 588 849 571 839 569 839 567 839 526 849 501 853 465 849 419 841 417 841 259 847 261 890"/></Shape>
+	    <String CONTENT="Waille - Louis Léon"
+                    HPOS="259"
+                    VPOS="838"
+                    WIDTH="505"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f3a08f0b"
+                    TAGREFS="LT11028"
+                    BASELINE="953 882 1223 882" 
+                    HPOS="950"
+                    VPOS="841"
+                    WIDTH="272"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="950 879 950 909 1222 906 1222 879 1219 841 950 841 950 879"/></Shape>
+	    <String CONTENT="11 Août 1910"
+                    HPOS="950"
+                    VPOS="841"
+                    WIDTH="272"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8537a375"
+                    TAGREFS="LT11028"
+                    BASELINE="255 939 530 939" 
+                    HPOS="255"
+                    VPOS="908"
+                    WIDTH="275"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="255 939 255 968 530 968 530 939 530 908 255 908 255 939"/></Shape>
+	    <String CONTENT="de Walteville"
+                    HPOS="255"
+                    VPOS="908"
+                    WIDTH="275"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_857428b3"
+                    TAGREFS="LT11028"
+                    BASELINE="951 937 1229 937" 
+                    HPOS="950"
+                    VPOS="891"
+                    WIDTH="278"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="950 935 950 961 1225 973 1228 935 1225 891 950 894 950 935"/></Shape>
+	    <String CONTENT="5 Août 1904"
+                    HPOS="950"
+                    VPOS="891"
+                    WIDTH="278"
+                    HEIGHT="82"
+                    WC="0.9780545681715012"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0a091116"
+                    TAGREFS="LT11028"
+                    BASELINE="292 995 787 991" 
+                    HPOS="290"
+                    VPOS="947"
+                    WIDTH="497"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="292 995 292 1019 783 1021 787 991 783 962 703 962 699 958 668 947 666 947 664 947 590 956 559 960 510 954 454 949 452 949 450 949 440 953 421 964 389 964 378 953 376 951 376 949 374 949 372 949 370 949 290 949 292 995"/></Shape>
+	    <String CONTENT="Wéber - Joseph Etienne"
+                    HPOS="290"
+                    VPOS="947"
+                    WIDTH="497"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1698c71"
+                    TAGREFS="LT11028"
+                    BASELINE="947 993 1237 987" 
+                    HPOS="941"
+                    VPOS="941"
+                    WIDTH="293"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="944 991 944 1020 1234 1011 1234 985 1228 950 941 941 944 991"/></Shape>
+	    <String CONTENT="21 Janvier 1905"
+                    HPOS="941"
+                    VPOS="941"
+                    WIDTH="293"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_222b0023"
+                    TAGREFS="LT11028"
+                    BASELINE="284 1052 816 1048" 
+                    HPOS="282"
+                    VPOS="1003"
+                    WIDTH="534"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="284 1052 284 1071 813 1075 816 1048 813 1011 707 1003 705 1003 703 1003 701 1003 701 1005 694 1011 690 1017 559 1017 555 1015 536 1005 534 1005 532 1005 530 1005 506 1015 501 1017 501 1015 491 1007 491 1005 489 1005 487 1005 485 1005 438 1015 430 1017 415 1017 294 1005 292 1005 290 1005 288 1005 288 1007 282 1011 284 1052"/></Shape>
+	    <String CONTENT="Weber - Marceau Pierre"
+                    HPOS="282"
+                    VPOS="1003"
+                    WIDTH="534"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6390d24c"
+                    TAGREFS="LT11028"
+                    BASELINE="953 1050 1231 1050" 
+                    HPOS="950"
+                    VPOS="1005"
+                    WIDTH="278"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="950 1049 950 1072 1225 1078 1228 1049 1228 1008 950 1005 950 1049"/></Shape>
+	    <String CONTENT="3 Janvier 1911"
+                    HPOS="950"
+                    VPOS="1005"
+                    WIDTH="278"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d24324e1"
+                    TAGREFS="LT11028"
+                    BASELINE="284 1105 653 1108" 
+                    HPOS="282"
+                    VPOS="1060"
+                    WIDTH="371"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="284 1105 282 1128 651 1128 653 1108 653 1075 635 1064 633 1064 631 1064 629 1064 584 1073 582 1073 528 1062 526 1062 524 1062 522 1062 522 1064 512 1071 506 1077 469 1077 284 1060 284 1105"/></Shape>
+	    <String CONTENT="Weber - Henri"
+                    HPOS="282"
+                    VPOS="1060"
+                    WIDTH="371"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5db98f10"
+                    TAGREFS="LT11028"
+                    BASELINE="951 1106 1228 1103" 
+                    HPOS="947"
+                    VPOS="1055"
+                    WIDTH="278"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="950 1105 950 1131 1222 1131 1225 1102 1219 1055 947 1055 950 1105"/></Shape>
+	    <String CONTENT="17 Octobre 1911"
+                    HPOS="947"
+                    VPOS="1055"
+                    WIDTH="278"
+                    HEIGHT="76"
+                    WC="0.9978452841440837"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58056b19"
+                    TAGREFS="LT11028"
+                    BASELINE="261 1165 830 1161" 
+                    HPOS="259"
+                    VPOS="1124"
+                    WIDTH="571"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="261 1165 261 1190 830 1181 830 1161 824 1124 259 1124 261 1165"/></Shape>
+	    <String CONTENT="Weissbech - Marius François"
+                    HPOS="259"
+                    VPOS="1124"
+                    WIDTH="571"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d219411"
+                    TAGREFS="LT11028"
+                    BASELINE="943 1163 1233 1163" 
+                    HPOS="941"
+                    VPOS="1110"
+                    WIDTH="290"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="941 1160 941 1183 1228 1195 1231 1160 1231 1119 941 1110 941 1160"/></Shape>
+	    <String CONTENT="8 Décembre 1909"
+                    HPOS="941"
+                    VPOS="1110"
+                    WIDTH="290"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85536795"
+                    TAGREFS="LT11028"
+                    BASELINE="276 1220 752 1220" 
+                    HPOS="276"
+                    VPOS="1173"
+                    WIDTH="476"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="276 1220 276 1243 752 1239 752 1220 752 1184 709 1173 707 1173 705 1173 703 1173 701 1173 686 1184 670 1173 668 1173 666 1173 664 1173 662 1173 660 1173 643 1184 614 1173 612 1173 610 1173 545 1184 532 1173 530 1173 528 1173 436 1173 434 1173 345 1184 300 1173 298 1173 296 1173 294 1173 292 1173 276 1182 276 1220"/></Shape>
+	    <String CONTENT="Werler - Charles Louis"
+                    HPOS="276"
+                    VPOS="1173"
+                    WIDTH="476"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea4aa55d"
+                    TAGREFS="LT11028"
+                    BASELINE="937 1220 1236 1216" 
+                    HPOS="932"
+                    VPOS="1166"
+                    WIDTH="302"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="935 1219 935 1245 1231 1236 1234 1213 1228 1172 932 1166 935 1219"/></Shape>
+	    <String CONTENT="25 Septembre 1903"
+                    HPOS="932"
+                    VPOS="1166"
+                    WIDTH="302"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_18025bf1"
+                    TAGREFS="LT11028"
+                    BASELINE="243 1278 616 1272" 
+                    HPOS="241"
+                    VPOS="1225"
+                    WIDTH="375"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="243 1278 243 1303 616 1299 616 1272 612 1237 520 1225 518 1225 516 1225 491 1237 485 1239 462 1237 376 1227 374 1227 241 1237 243 1278"/></Shape>
+	    <String CONTENT="Werler - André"
+                    HPOS="241"
+                    VPOS="1225"
+                    WIDTH="375"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_789d49a7"
+                    TAGREFS="LT11028"
+                    BASELINE="947 1274 1227 1274" 
+                    HPOS="944"
+                    VPOS="1224"
+                    WIDTH="281"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="944 1271 944 1297 1222 1300 1225 1271 1225 1230 944 1224 944 1271"/></Shape>
+	    <String CONTENT="17 Avril 1906"
+                    HPOS="944"
+                    VPOS="1224"
+                    WIDTH="281"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a31e0402"
+                    TAGREFS="LT11028"
+                    BASELINE="276 1333 791 1329" 
+                    HPOS="274"
+                    VPOS="1284"
+                    WIDTH="517"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="276 1333 276 1358 789 1352 791 1329 785 1286 514 1296 489 1286 485 1284 483 1284 481 1284 274 1284 276 1333"/></Shape>
+	    <String CONTENT="Wild - Marcelle Renée"
+                    HPOS="274"
+                    VPOS="1284"
+                    WIDTH="517"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9aa8097"
+                    TAGREFS="LT11028"
+                    BASELINE="943 1333 1202 1329" 
+                    HPOS="941"
+                    VPOS="1288"
+                    WIDTH="261"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="943 1333 945 1366 980 1348 1070 1348 1199 1362 1202 1329 1199 1301 1111 1301 1085 1288 1084 1288 1082 1288 1080 1288 1078 1288 1060 1301 1000 1290 998 1290 996 1290 941 1303 943 1333"/></Shape>
+	    <String CONTENT="19 Fevrier 1909"
+                    HPOS="941"
+                    VPOS="1288"
+                    WIDTH="261"
+                    HEIGHT="78"
+                    WC="0.9931458274523417"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbe95916"
+                    TAGREFS="LT11028"
+                    BASELINE="257 1389 834 1385" 
+                    HPOS="255"
+                    VPOS="1342"
+                    WIDTH="579"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="257 1389 257 1412 832 1410 834 1385 830 1354 676 1342 674 1342 672 1342 670 1342 660 1350 657 1356 588 1356 575 1350 555 1342 553 1342 551 1342 549 1342 547 1342 538 1348 528 1356 506 1348 493 1344 491 1344 489 1344 450 1348 370 1356 255 1346 257 1389"/></Shape>
+	    <String CONTENT="Willemann - Jeanne Clarisse"
+                    HPOS="255"
+                    VPOS="1342"
+                    WIDTH="579"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0a455bb4"
+                    TAGREFS="LT11028"
+                    BASELINE="941 1383 1235 1387" 
+                    HPOS="935"
+                    VPOS="1341"
+                    WIDTH="299"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="938 1382 935 1406 1228 1409 1234 1385 1231 1341 938 1341 938 1382"/></Shape>
+	    <String CONTENT="10 Janvier 1905"
+                    HPOS="935"
+                    VPOS="1341"
+                    WIDTH="299"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d04a2ed6"
+                    TAGREFS="LT11028"
+                    BASELINE="251 1446 912 1442" 
+                    HPOS="249"
+                    VPOS="1403"
+                    WIDTH="663"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="251 1446 251 1473 399 1463 440 1475 444 1477 446 1477 448 1477 450 1477 454 1475 481 1465 547 1475 559 1477 561 1477 563 1477 569 1475 623 1461 703 1461 719 1473 721 1473 723 1473 725 1473 727 1473 748 1461 766 1475 768 1475 770 1475 772 1475 838 1461 855 1475 857 1475 859 1475 861 1477 910 1477 912 1442 906 1403 249 1405 251 1446"/></Shape>
+	    <String CONTENT="Windmüller - Gertrude Catherine"
+                    HPOS="249"
+                    VPOS="1403"
+                    WIDTH="663"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b5a27ab"
+                    TAGREFS="LT11028"
+                    BASELINE="937 1444 1233 1440" 
+                    HPOS="932"
+                    VPOS="1391"
+                    WIDTH="299"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="935 1441 935 1473 1231 1461 1231 1438 1222 1391 932 1394 935 1441"/></Shape>
+	    <String CONTENT="9 Décembre 1912"
+                    HPOS="932"
+                    VPOS="1391"
+                    WIDTH="299"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22757d4e"
+                    TAGREFS="LT11028"
+                    BASELINE="269 1502 664 1496" 
+                    HPOS="267"
+                    VPOS="1459"
+                    WIDTH="397"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="269 1502 269 1522 662 1524 664 1496 660 1471 608 1459 606 1459 545 1469 534 1459 532 1459 530 1459 528 1459 526 1459 524 1459 524 1461 522 1461 514 1471 512 1471 458 1461 456 1461 454 1461 436 1471 426 1461 425 1461 423 1461 421 1461 419 1461 397 1471 393 1473 386 1471 348 1463 347 1463 267 1471 269 1502"/></Shape>
+	    <String CONTENT="Wurm- Marcelle"
+                    HPOS="267"
+                    VPOS="1459"
+                    WIDTH="397"
+                    HEIGHT="65"
+                    WC="0.9628114146845681"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b02b1c9"
+                    TAGREFS="LT11028"
+                    BASELINE="947 1498 1216 1498" 
+                    HPOS="947"
+                    VPOS="1457"
+                    WIDTH="269"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="947 1498 947 1527 1216 1522 1216 1498 1214 1457 947 1461 947 1498"/></Shape>
+	    <String CONTENT="13 Avril 1904"
+                    HPOS="947"
+                    VPOS="1457"
+                    WIDTH="269"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ad3d286"
+                    TAGREFS="LT11028"
+                    BASELINE="269 1559 643 1559" 
+                    HPOS="269"
+                    VPOS="1514"
+                    WIDTH="374"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="269 1559 269 1586 643 1578 643 1559 643 1525 592 1514 590 1514 588 1514 586 1514 577 1524 540 1514 538 1514 536 1514 269 1520 269 1559"/></Shape>
+	    <String CONTENT="Wurm - Eugène"
+                    HPOS="269"
+                    VPOS="1514"
+                    WIDTH="374"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02cb8c44"
+                    TAGREFS="LT11028"
+                    BASELINE="943 1555 1236 1555" 
+                    HPOS="941"
+                    VPOS="1502"
+                    WIDTH="293"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="941 1552 941 1584 1196 1593 1199 1593 1201 1593 1234 1575 1234 1552 1234 1502 941 1502 941 1552"/></Shape>
+	    <String CONTENT="27 Mai 1909"
+                    HPOS="941"
+                    VPOS="1502"
+                    WIDTH="293"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_312d6d2b"
+                    TAGREFS="LT11028"
+                    BASELINE="269 1615 633 1611" 
+                    HPOS="267"
+                    VPOS="1566"
+                    WIDTH="366"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="269 1615 272 1644 284 1635 629 1635 633 1611 627 1566 376 1576 358 1574 286 1566 284 1566 282 1566 280 1566 267 1574 269 1615"/></Shape>
+	    <String CONTENT="Wytten - Emile"
+                    HPOS="267"
+                    VPOS="1566"
+                    WIDTH="366"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f17d5a25"
+                    TAGREFS="LT11028"
+                    BASELINE="945 1613 1231 1606" 
+                    HPOS="941"
+                    VPOS="1563"
+                    WIDTH="287"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="944 1610 944 1642 1225 1634 1228 1604 1222 1566 941 1563 944 1610"/></Shape>
+	    <String CONTENT="19 Février 1907"
+                    HPOS="941"
+                    VPOS="1563"
+                    WIDTH="287"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9cf208a3"
+                    TAGREFS="LT11028"
+                    BASELINE="261 1670 639 1666" 
+                    HPOS="259"
+                    VPOS="1633"
+                    WIDTH="380"
+                    HEIGHT="130">
+            <Shape><Polygon POINTS="261 1670 261 1763 639 1763 639 1666 635 1633 259 1633 261 1670"/></Shape>
+	    <String CONTENT="Wytten - Emile"
+                    HPOS="259"
+                    VPOS="1633"
+                    WIDTH="380"
+                    HEIGHT="130"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e6b870e5"
+                    TAGREFS="LT11028"
+                    BASELINE="947 1668 1239 1666" 
+                    HPOS="941"
+                    VPOS="1613"
+                    WIDTH="296"
+                    HEIGHT="158">
+            <Shape><Polygon POINTS="944 1666 944 1771 1237 1771 1237 1663 1228 1613 941 1622 944 1666"/></Shape>
+	    <String CONTENT="29 Mai 1908"
+                    HPOS="941"
+                    VPOS="1613"
+                    WIDTH="296"
+                    HEIGHT="158"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_97827ac9"
+                    TAGREFS="LT11028"
+                    BASELINE="1380 378 1824 378" 
+                    HPOS="1380"
+                    VPOS="337"
+                    WIDTH="444"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1380 378 1380 403 1433 415 1434 415 1436 415 1438 415 1438 413 1448 403 1452 401 1497 401 1511 403 1565 415 1567 415 1680 403 1684 403 1709 415 1711 415 1713 415 1715 415 1750 403 1756 401 1822 401 1824 378 1824 348 1793 337 1791 337 1686 337 1684 337 1682 337 1680 337 1680 339 1670 346 1668 348 1380 341 1380 378"/></Shape>
+	    <String CONTENT="Yvonne - Antoinette"
+                    HPOS="1380"
+                    VPOS="337"
+                    WIDTH="444"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b76965d"
+                    TAGREFS="LT11028"
+                    BASELINE="2031 380 2310 376" 
+                    HPOS="2026"
+                    VPOS="339"
+                    WIDTH="281"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="2029 377 2029 397 2193 415 2196 415 2307 400 2307 374 2298 339 2026 339 2029 377"/></Shape>
+	    <String CONTENT="22 Mai 1905"
+                    HPOS="2026"
+                    VPOS="339"
+                    WIDTH="281"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30b50531"
+                    TAGREFS="LT11028"
+                    BASELINE="1419 434 2006 435" 
+                    HPOS="1418"
+                    VPOS="391"
+                    WIDTH="585"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1418 432 1418 476 2003 461 2003 432 2000 391 1418 391 1418 432"/></Shape>
+	    <String CONTENT="Zedin - Jeanne Laure Pierrette"
+                    HPOS="1418"
+                    VPOS="391"
+                    WIDTH="585"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_beeffda7"
+                    
+                    BASELINE="2031 435 2296 436" 
+                    HPOS="2026"
+                    VPOS="385"
+                    WIDTH="269"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="2029 432 2026 453 2289 461 2295 435 2292 397 2029 385 2029 432"/></Shape>
+	    <String CONTENT="7 Mai 1906"
+                    HPOS="2026"
+                    VPOS="385"
+                    WIDTH="269"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_48f1af3a"
+                    TAGREFS="LT11028"
+                    BASELINE="1436 493 1752 493" 
+                    HPOS="1436"
+                    VPOS="457"
+                    WIDTH="316"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1436 493 1436 518 1752 514 1752 493 1752 465 1585 457 1583 457 1581 457 1557 467 1555 467 1534 457 1532 457 1530 457 1528 457 1526 457 1516 467 1514 469 1436 469 1436 493"/></Shape>
+	    <String CONTENT="Zins - Jean"
+                    HPOS="1436"
+                    VPOS="457"
+                    WIDTH="316"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1092263"
+                    TAGREFS="LT11028"
+                    BASELINE="2039 491 2292 493" 
+                    HPOS="2037"
+                    VPOS="448"
+                    WIDTH="255"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="2039 491 2037 506 2068 518 2070 518 2072 518 2290 516 2292 493 2288 454 2156 459 2132 456 2078 448 2076 448 2074 448 2039 457 2039 491"/></Shape>
+	    <String CONTENT="24 Juin 1909"
+                    HPOS="2037"
+                    VPOS="448"
+                    WIDTH="255"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca6ace97"
+                    TAGREFS="LT11028"
+                    BASELINE="1440 547 2006 547" 
+                    HPOS="1438"
+                    VPOS="496"
+                    WIDTH="565"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1438 546 1438 572 2003 570 2003 546 2000 496 1438 499 1438 546"/></Shape>
+	    <String CONTENT="Zins - Madeleine Antoinette"
+                    HPOS="1438"
+                    VPOS="496"
+                    WIDTH="565"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63a257e2"
+                    
+                    BASELINE="2031 547 2307 547" 
+                    HPOS="2029"
+                    VPOS="508"
+                    WIDTH="275"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="2029 546 2029 581 2304 572 2304 546 2304 508 2029 508 2029 546"/></Shape>
+	    <String CONTENT="22 Juin 1910"
+                    HPOS="2029"
+                    VPOS="508"
+                    WIDTH="275"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92e0a7ee"
+                    TAGREFS="LT11028"
+                    BASELINE="1431 604 1762 602" 
+                    HPOS="1429"
+                    VPOS="565"
+                    WIDTH="333"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1431 604 1431 629 1760 621 1762 602 1758 578 1678 578 1676 576 1665 565 1663 565 1661 565 1606 565 1604 565 1602 565 1600 565 1587 576 1585 576 1575 574 1507 565 1505 565 1503 565 1501 565 1485 574 1483 576 1481 574 1470 565 1468 565 1466 565 1464 565 1462 565 1429 572 1431 604"/></Shape>
+	    <String CONTENT="Zins - Yvonne"
+                    HPOS="1429"
+                    VPOS="565"
+                    WIDTH="333"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b63adfa"
+                    TAGREFS="LT11028"
+                    BASELINE="2027 604 2314 602" 
+                    HPOS="2023"
+                    VPOS="564"
+                    WIDTH="290"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="2026 602 2026 628 2310 628 2313 599 2304 564 2023 564 2026 602"/></Shape>
+	    <String CONTENT="27 Décembre 1912"
+                    HPOS="2023"
+                    VPOS="564"
+                    WIDTH="290"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83758a1c"
+                    TAGREFS="LT11028"
+                    BASELINE="1421 660 2023 659" 
+                    HPOS="1418"
+                    VPOS="613"
+                    WIDTH="602"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1418 657 1418 707 2020 707 2020 657 2020 622 1418 613 1418 657"/></Shape>
+	    <String CONTENT="Zoetens - Victor Julien Joanny"
+                    HPOS="1418"
+                    VPOS="613"
+                    WIDTH="602"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e469aa6"
+                    
+                    BASELINE="2032 659 2317 658" 
+                    HPOS="2029"
+                    VPOS="613"
+                    WIDTH="287"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2029 657 2029 698 2316 689 2316 657 2316 622 2029 613 2029 657"/></Shape>
+	    <String CONTENT="19 Juin 1906"
+                    HPOS="2029"
+                    VPOS="613"
+                    WIDTH="287"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0cfd32af"
+                    TAGREFS="LT11028"
+                    BASELINE="1421 717 1752 717" 
+                    HPOS="1421"
+                    VPOS="676"
+                    WIDTH="331"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1421 717 1423 758 1479 742 1532 742 1551 752 1563 758 1565 758 1567 760 1657 760 1657 758 1659 758 1661 758 1678 746 1704 758 1705 758 1707 758 1709 758 1752 740 1752 717 1752 686 1733 676 1731 676 1729 676 1727 676 1702 687 1700 687 1698 687 1663 676 1661 676 1596 676 1594 676 1592 676 1590 676 1590 678 1581 686 1579 687 1557 686 1448 676 1446 676 1444 676 1421 684 1421 717"/></Shape>
+	    <String CONTENT="Zona - Henri"
+                    HPOS="1421"
+                    VPOS="676"
+                    WIDTH="331"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d12dcaad"
+                    TAGREFS="LT11028"
+                    BASELINE="2031 715 2313 714" 
+                    HPOS="2029"
+                    VPOS="669"
+                    WIDTH="281"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2029 713 2032 768 2091 754 2170 760 2289 768 2292 768 2295 768 2298 768 2298 765 2310 754 2310 713 2307 669 2029 669 2029 713"/></Shape>
+	    <String CONTENT="27 Janvier 1903"
+                    HPOS="2029"
+                    VPOS="669"
+                    WIDTH="281"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="0"
+                   VPOS="31"
+                   WIDTH="1"
+                   HEIGHT="2"
+                   ID="eSc_textblock_9bf92306"
+                   TAGREFS="BT26871">
+          <Shape><Polygon POINTS="0 31 1 31 1 33 0 33"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="202"
+                   VPOS="304"
+                   WIDTH="6"
+                   HEIGHT="13"
+                   ID="eSc_textblock_04688a1d"
+                   TAGREFS="BT26871">
+          <Shape><Polygon POINTS="208 317 202 317 202 304 208 304"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="467"
+                   VPOS="3414"
+                   WIDTH="1543"
+                   HEIGHT="37"
+                   ID="eSc_textblock_c939ba22"
+                   TAGREFS="BT26871">
+          <Shape><Polygon POINTS="1994 3414 2010 3451 467 3451 475 3422 1485 3414"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2363"
+                   VPOS="709"
+                   WIDTH="5"
+                   HEIGHT="6"
+                   ID="eSc_textblock_9d35b355"
+                   TAGREFS="BT26871">
+          <Shape><Polygon POINTS="2368 715 2363 715 2363 709 2368 709"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
