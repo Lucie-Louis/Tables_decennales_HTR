@@ -17,6 +17,8 @@ Total Characters
 Ce corpus a été constitué dans le cadre de cours en master d'humanités numériques. Il s'agit donc d'un travail amateur à travers lequel j'ai appris à prendre en main le logiciel Escriptorium. Il contient donc certaines des erreurs, notamment quant au respect des guidelines de transcription. 
 C'est un projet mené par une seule personne, aucun réel contrôle de qualité n'a donc été fait.
 
+Au niveau du nommage : le nom des fichiers XML et Png a été modifié après leur téléchargement depuis escriptorium. Le nom original de tous les fichiers était : n°pagemanuscript_initiale.pdf_page_1.xml/png. Il y a donc une différence entre l'ID des fichiers sur le METS et leur nom actuel
+
 ## Crédits
 - Segmentation : Lucie Louis
 - Transcription : Lucie Louis
