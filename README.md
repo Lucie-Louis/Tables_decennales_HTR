@@ -5,6 +5,13 @@ Il manque uniquement la lettre D.
 Le modèle de nommage des fichiers est le suivant : n°pagemanuscrit_initiale.xml/png
 source du manuscrit : archives municipales de Lyon --> https://www.fondsenligne.archives-lyon.fr/v2/ac69/visualiseur/etatcivil.html?id=690104655&vue=1
 
+Total Images
+17
+Total Lines
+1 632
+Total Characters
+31 870
+
 ## Avertissement 
 
 Ce corpus a été constitué dans le cadre de cours en master d'humanités numériques. Il s'agit donc d'un travail amateur à travers lequel j'ai appris à prendre en main le logiciel Escriptorium. Il contient donc certaines des erreurs, notamment quant au respect des guidelines de transcription. 
@@ -19,15 +26,25 @@ C'est un projet mené par une seule personne, aucun réel contrôle de qualité 
 
 ## Transcription Guidelines 
 
-Ce projet a été réalisé avant d'avoir connaissance des guidelines Catmus trouvables ici : https://catmus-guidelines.github.io/
-Les règles suivies dans ce corpus sont les suivantes : 
+Ce projet a été réalisé avant d’avoir connaissance des guidelines Catmus trouvables ici : https://catmus-guidelines.github.io/ Les règles suivies dans ce corpus sont les suivantes :
 - pas de développement des prénoms abrégés
 - les majuscules/minuscules suivent le manuscrit, même si une minuscule se trouve là où une majuscule devrait être
-- les accents n'ont normalement pas été ajouté s'ils étaient absents du manuscrit (mais des erreurs sont possibles)
-- dans le cas de noms/prénoms glissées en interligne : une ligne de segmentation a été ajoutée
-- Cas lettres barrées d'une croix : elles ont été ignorées (ex. Manuscript : m de Garampon barré d'une croix  / transcription = Garapon)
-- cas d'ajout d'un mot dans une ligne en mettant le mot en dessus de la ligne avec une flèche indiquant où il se place : le mot est replacé au sein de la ligne
-(ex. Manuscrit : Fargier - Yvonne Joséphine (reconnue) marala / transcription : Fargier - Yvonne Joséphine reconnue marala.  Sachant que le "reconnue" du manuscrit est surélévé) 
+- les accents n’ont normalement pas été ajoutés s’ils étaient absents du manuscrit (mais des erreurs sont possibles)
+- dans le cas de noms/prénoms glissés en interligne : une ligne de segmentation a été ajoutée puis ils ont été transcrits sans signe distinctif
+- Cas lettres barrées d’une croix : elles ont été ignorées (ex. Manuscrit : m de Garampon barré d’une croix / transcription = Garapon)
+- Mots complètement biffés : ils ont été ignorés à la transcription, aucune mention de leur présence car la règle de mettre [] là où le mot se trouve ne m’était pas encore connue
+- cas d’ajout d’un mot dans une ligne en le mettant au-dessus de la ligne avec une flèche indiquant où il se place : le mot est replacé au sein de la ligne (ex. Manuscrit : Fargier - Yvonne Joséphine (reconnue) marala / transcription : Fargier - Yvonne Joséphine reconnue marala. Sachant que le « reconnue » du manuscrit est surélevé)
+- Cas de textes qui se superposent (ex. si le nom dépasse sur les premiers chiffres de la date de naissance) : la séparation a été ajoutée à la transcription
+- étoiles dessinées à côté de certains noms : elles ont été exclues de la segmentation autant que possible et ignorées à la transcription
 
-## Metric 
-N/A pour l'instant
+## Métrique
+### Régions 
+text	137
+None	3
+### Lignes 
+default	1515
+None  208 
+
+
+## Funding 
+Ce projet ne repose sur aucun financement 
