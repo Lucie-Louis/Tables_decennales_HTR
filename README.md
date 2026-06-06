@@ -1,6 +1,6 @@
 # HTR - Tables Décennales 1er arrondissement de Lyon : Pages d'entraînement 
 ## Introduction
-Ce corpus est composé de pages d’entraînement préparées pour le fine-tuning du modèle Manu Mc Fondue. Ces 17 doubles pages sont extraites des tables décennales (1902-1913) du 1er arrondissement de Lyon et recouvrent chaque initiale de la table. Il manque uniquement la lettre D. Le modèle de nommage des fichiers est le suivant : n°pagemanuscrit_initiale.xml/png
+Ce corpus est composé de pages d’entraînement préparées pour le fine-tuning du modèle Manu Mc Fondue. Ces 17 doubles pages sont extraites des tables décennales des naissances (1902-1913) du 1er arrondissement de Lyon et recouvrent chaque initiale de la table. Il manque uniquement la lettre D. Le modèle de nommage des fichiers est le suivant : n°pagemanuscrit_initiale.xml/png
 
 source du manuscrit : archives municipales de Lyon --> https://www.fondsenligne.archives-lyon.fr/v2/ac69/visualiseur/etatcivil.html?id=690104655&vue=1
 
